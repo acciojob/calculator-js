@@ -13,16 +13,16 @@ The task is to create a react based calculator which can perform the following o
 
 Id for various buttons should be as mentioned below:
 
-- display area : `display`
-- + button : `plus`
-- - buttono : `-`
-- / button : `divi`
-- * button : `*`
-- ( buton : `op`
-- ) button : `cl`
-- C button : `C`
-- backspace button : `back`
-- = button : `equal`
+- `display area` : `display`
+- `+` button : `plus`
+- `-` buttono : `-`
+- `/` button : `divi`
+- `*` button : `*`
+- `(` buton : `op`
+- `)` button : `cl`
+- `C` button : `C`
+- `backspace button` : `back`
+- `=` button : `equal`
 
 Ids for all the numbered buttons are number themselves for example id for 9 button is `9`
 
