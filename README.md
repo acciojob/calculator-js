@@ -1,10 +1,23 @@
-# Favorite Holiday 
 
-### Create a webpage that describes your favorite holiday destination. The webpage should include the following elements:
+# Calculator
+The task is to create a react based calculator which can perform the following operations:
+-  Addition
+-  Subtraction
+-  Division
+-  Multiplication
+-  Clear All
+-  Equals to
+-  Clear one character
+-  Open and Close brackets
 
-- A heading (h1) with the name of the holiday destination
-- A paragraph that provides a brief overview of the destination
-- A line break between the heading and the paragraph
-- An ordered list that lists the top 5 attractions in the destination
-- An unordered list that lists the must-try foods in the destination
-- Text within the ordered and unordered lists should be bold (strong or b) and/or italicized (em or i) to emphasize important information.
+
+
+
+The main page should look somewhat like this
+
+![image](https://user-images.githubusercontent.com/78348500/217783954-23fc8fca-8183-4d50-920e-273a273dd861.png)
+
+
+
+
+
